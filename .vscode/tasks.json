@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Create Vue.js project for chat app",
+			"command": "npm create vue@latest chat-vue-app -- --default",
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}
