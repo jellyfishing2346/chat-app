@@ -181,4 +181,4 @@ MIT
 
 ---
 
-> Crafted with 💚 by jellyfishing2346
+> Crafted with 💚 by Faizan Khan
